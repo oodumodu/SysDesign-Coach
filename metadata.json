@@ -1,0 +1,5 @@
+{
+  "name": "SysDesign AI Coach",
+  "description": "An interactive system design interview practice tool that provides real-time AI feedback on each section of your design and a final grade.",
+  "requestFramePermissions": []
+}
